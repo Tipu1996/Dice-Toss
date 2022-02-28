@@ -1,0 +1,27 @@
+.refresh {
+  font-family: 'IM Fell Double Pica', serif;
+  font-size: 7rem;
+  text-align: center;
+}
+
+.players {
+  text-align: center;
+  display: inline-block;
+}
+
+.container{
+  text-align: center;
+  margin: auto;
+  width: 70%;
+}
+
+.player1{
+  margin-right: 5%;
+}
+.player2{
+  margin-left: 5%;
+}
+body{
+  background-color: #404040;
+  color: #4d8c57;
+}
